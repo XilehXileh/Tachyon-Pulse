@@ -67,5 +67,3 @@ g++ -O3 pulse-benchmark.cpp -o tachyon_pulse
 ### Release Note
 This project serves as a baseline for anyone building performance-sensitive software in environments like **Termux** or localized AI frameworks. It ensures that before you build complex systems, the "foundation" (your hardware and memory) is stable and performing as expected.
 ```
-
-```
